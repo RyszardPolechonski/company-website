@@ -27,13 +27,13 @@ body{
     background-size: cover;
 }
 
-.bg1{background-image: url("/img/bg1.jpg");}
-.bg2{background-image: url("/img/bg2.jpg");}
-.bg3{background-image: url("/img/bg3.jpg");}
-.bg4{background-image: url("/img/bg4.jpg");}
-.bg5{background-image: url("/img/bg5.jpg");}
-.bg6{background-image: url("/img/bg6.jpg");}
-.bg7{background-image: url("/img/bg1.jpg");}
+.bg1{background-image: url("img/bg1.jpg");}
+.bg2{background-image: url("img/bg2.jpg");}
+.bg3{background-image: url("img/bg3.jpg");}
+.bg4{background-image: url("img/bg4.jpg");}
+.bg5{background-image: url("img/bg5.jpg");}
+.bg6{background-image: url("img/bg6.jpg");}
+.bg7{background-image: url("img/bg1.jpg");}
 
 .overlay{
     background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5));
