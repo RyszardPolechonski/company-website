@@ -3,5 +3,5 @@
 Stronka zrobiona na szybko przy pomocy HTML i CSS,
 na bazie istniejącej strony biura projektowego, w którym pracuję.
 
-Deployment GitHubpages:
+GitHubPages deployment:
 https://ryszardpolechonski.github.io/company-website/
